@@ -1,0 +1,36 @@
+{
+  "name": "quarentime",
+  "version": "0.1.0",
+  "description": "A quarentine date time tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/benlk/quarentime.git"
+  },
+  "keywords": [
+    "quarentine",
+    "covid-19"
+  ],
+  "author": "Ben Keith",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/benlk/quarentime/issues"
+  },
+  "homepage": "https://github.com/benlk/quarentime#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "postcss-csso": "^4.0.0",
+    "sass": "^1.26.10",
+    "uswds": "^2.8.1",
+    "uswds-gulp": "github:uswds/uswds-gulp"
+  }
+}
