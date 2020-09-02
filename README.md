@@ -1,7 +1,7 @@
 # Quarentime
 
-todo list:
-- [x] get uswds-gulp compiling
-- [ ] include CSS file on page
-- [ ] proper HTML5 boilerplate
-- [ ] figure out goals for styling and markup based on USWDS examples
+This is a personal project.
+
+The todo list is over in [the issues](https://github.com/benlk/quarentime/issues).
+
+This is not yet deployed anywhere.
