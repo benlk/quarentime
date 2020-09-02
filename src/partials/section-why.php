@@ -4,7 +4,7 @@
  */
 
 ?>
-<section id="why" class="usa-section bg-accent-warm-darker text-base-lightest">
+<section id="why" class="usa-section bg-secondary text-base-lightest">
 	<div class="grid-container">
 		<div class="grid-row grid-gap">
 			<div class="tablet:grid-col-4">
