@@ -5,8 +5,7 @@
  * @param DateTime $march_1
  * @retun DateTimeInterval
  */
-function days_since( $march_1 ) {
+function days_since( DateTime $march_1 ) {
 	$diff = date_diff( $march_1, new DateTime( "tomorrow", new DateTimeZone( 'America/New_York' ) ) );
 	return $diff->format( '%a' );
 }
-
